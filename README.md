@@ -48,4 +48,4 @@ check out this [SO Thread](http://stackoverflow.com/questions/9166130/what-are-t
 
 [Full Unicode Chart](http://unicode.org/charts/)
 
-This is blogged in [here]()
+This is blogged in [here](http://kleineblase.wordpress.com/2013/05/06/chinese-characters-identifier-java)
