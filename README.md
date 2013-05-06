@@ -3,7 +3,7 @@ Chinese characters identifier (Java)
 =====================
 
 ###Quick:
-This program check if input word/Char is Chinese.
+This JAVA program check if input word/Char is Chinese.
 visit [ChineseCharIdentifier in github](https://github.com/vincentlaucy/ChineseCharIdentifier/)
 
 ###Usage
